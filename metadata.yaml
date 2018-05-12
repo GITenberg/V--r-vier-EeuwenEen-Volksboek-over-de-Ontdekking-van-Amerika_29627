@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3977
     wikipedia: http://nl.wikipedia.org/wiki/Pieter_Louwerse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29627#V--r-vier-EeuwenEen-Volksboek-over-de-Ontdekking-van-Amerika
 gutenberg_issued: '2009-08-06'
 gutenberg_type: Text
 identifiers:
