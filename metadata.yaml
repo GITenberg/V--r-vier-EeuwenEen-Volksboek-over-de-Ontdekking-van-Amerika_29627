@@ -1,0 +1,27 @@
+_repo: V--r-vier-EeuwenEen-Volksboek-over-de-Ontdekking-van-Amerika_29627
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Louwerse, Pieter
+    birthdate: 1840
+    deathdate: 1909
+    gutenberg_agent_id: '3977'
+    url: http://www.gutenberg.org/2009/agents/3977
+    wikipedia: http://nl.wikipedia.org/wiki/Pieter_Louwerse
+description: ''
+gutenberg_issued: '2009-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29627'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'America -- Discovery and exploration'
+- !lcc 'E011'
+title: 'Vóór vier Eeuwen: Een Volksboek over de Ontdekking van Amerika'
+url: http://www.gutenberg.org/ebooks/29627
